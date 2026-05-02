@@ -1,4 +1,0 @@
-{
-  "name": "ai-news-agent",
-  "description": "An autonomous AI agent that scrapes RSS feeds, summarizes news using Claude, and sends a daily Telegram briefing."
-}
